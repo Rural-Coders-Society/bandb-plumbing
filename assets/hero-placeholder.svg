@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" role="img" aria-label="Placeholder plumbing photo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d8ebf9"/>
+      <stop offset="100%" stop-color="#b7d8ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="420" fill="url(#g)"/>
+  <rect x="40" y="50" width="480" height="320" rx="18" fill="#ffffffaa" stroke="#7fb0d1" stroke-width="4"/>
+  <text x="280" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#0d6eb8" font-weight="700">Placeholder Image</text>
+  <text x="280" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#08558f">Hero Plumbing Photo</text>
+</svg>
